@@ -1,7 +1,7 @@
 facebook: &facebook
   label: "Facebook"
   icon: "fab fa-fw fa-facebook"
-  url: "https://www.facebook.com/dsachapter/"
+  url: "https://www.facebook.com/profile.php?id=100083189509046"
   username: dsachapter
 
 twitter: &twitter
@@ -13,7 +13,7 @@ twitter: &twitter
 instagram: &instagram
   label: "Instagram"
   icon: "fab fa-fw fa-instagram"
-  url: "https://www.instagram.com/dsachapter/"
+  url: "https://www.instagram.com/dsa.frederick/"
   username: dsachapter
 
 github: &github
@@ -34,15 +34,12 @@ email: &email
 # This list appears in the footer of every page
 footer:
   - *facebook
-  - *twitter
   - *instagram
-  - *github
   - *email
 
 # This list appears in the dropdown of every blog post
 follow:
   - *facebook
-  - *twitter
   - *instagram
 
 # I don't see where this gets used yet
