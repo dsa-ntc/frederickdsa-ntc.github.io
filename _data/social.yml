@@ -14,7 +14,7 @@ instagram: &instagram
   label: "Instagram"
   icon: "fab fa-fw fa-instagram"
   url: "https://www.instagram.com/dsa.frederick/"
-  username: dsachapter
+  username: dsa.frederick
 
 github: &github
   label: "GitHub"
